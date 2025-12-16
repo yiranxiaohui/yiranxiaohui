@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yiran Xiaohui 🚀
+## Hi there 👋 I'm yiranxiaohui 🚀
 
 🧑‍💻 **Software Engineer | Systems & Backend Developer**  
 ⚙️ 专注于 **高性能、可靠性、工程化**
